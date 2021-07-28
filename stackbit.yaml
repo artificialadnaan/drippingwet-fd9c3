@@ -6943,3 +6943,6 @@ models:
         name: bm
         label: Bm
         subtype: int
+  pagemodellandingpage:
+    type: page
+    label: pagemodellandingpage
