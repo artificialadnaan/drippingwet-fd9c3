@@ -6943,8 +6943,3 @@ models:
         name: bm
         label: Bm
         subtype: int
-  pagemodellandingpage:
-    type: page
-    label: pagemodellandingpage
-    description: landing page to generate leads
-    singleInstance: true
