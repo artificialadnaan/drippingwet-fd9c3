@@ -6946,3 +6946,5 @@ models:
   pagemodellandingpage:
     type: page
     label: pagemodellandingpage
+    description: landing page to generate leads
+    singleInstance: true
